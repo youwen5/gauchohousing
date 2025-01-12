@@ -1,0 +1,392 @@
+apartment_name,phone_number,price_range,bedroom_types,address
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds|2 Bath,811 Camino Pescadero Goleta CA 93117
+Breakpointe Coronado,305-324-7195,$1190-$3750,Studio-4 Beds|1-3 Bath,672 Abrego Road Goleta CA 93117
+The Meadows Apartments,null,$2100,null,6753 Abrego Rd Goleta CA 93117
+Pacific Oaks,null,$2935-$4035,1-2 Beds|1 Bath,7170 Davenport Rd Goleta CA 93117
+Patterson Place,877-560-3970,$2992-$4907,null,120 S Patterson Ave Santa Barbara CA 93111
+Wakefield Apartments,805-456-2672,$6200,4 Beds|2.5 Bath,624 Wakefield Rd Goleta CA 93117
+El Embarcadero Apartments,805-308-7170,$6750,2 Beds|1 Bath,1025 El Embarcadero Rd Goleta CA 93117
+Abrego Road Apartments,805-570-2288,$11000,5 Beds|3 Bath,6767 Abrego Rd Goleta CA 93117
+Kestrel Lane Apartments,null,$13500,3 Beds|5 Bath,000 Kestrel Ln Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds/2 Bath,811 Camino Pescadero Goleta CA 93117
+Breakpointe Coronado,305-324-7195,$1190-$3750,Studio-4 Beds/1-3 Bath,672 Abrego Road Goleta CA 93117
+The Meadows Apartments,null,$2100,null,6753 Abrego Rd Goleta CA 93117
+Pacific Oaks,null,$2935-$4035,1-2 Beds/1 Bath,7170 Davenport Rd Goleta CA 93117
+Patterson Place,877-560-3970,$2992-$4907,null,120 S Patterson Ave Santa Barbara CA 93111
+Wakefield Apartments,805-456-2672,$6200,4 Beds/2.5 Bath,624 Wakefield Rd Goleta CA 93117
+El Embarcadero Apartments,805-308-7170,$6750,2 Beds/1 Bath,1025 El Embarcadero Rd Goleta CA 93117
+Abrego Road Apartments,805-570-2288,$11000,5 Beds/3 Bath,6767 Abrego Rd Goleta CA 93117
+Kestrel Lane Apartments,null,$13500,3 Beds/5 Bath,000 Kestrel Ln Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936 - $2615,2-3 Beds|2 Bath,null
+Breakpointe Coronado,305-324-7195,$1190 - $3750,Studio-4 Beds|1-3 Bath,672 Abrego Rd Goleta CA 93117
+The Meadows Apartments,null,$2100,null,6753 Abrego Rd Goleta CA 93117
+Wakefield Apartments,805-456-2672,$6200,4 Beds|2.5 Bath,624 Wakefield Rd Goleta CA 93117
+El Embarcadero Apartments,805-308-7170,$6750,2 Bed|1 Bath,1025 El Embarcadero Rd Goleta CA 93117
+Abrego Road Apartments,805-570-2288,$11000,5 Beds|3 Bath,6767 Abrego Rd Goleta CA 93117
+Kestrel Lane Residences,null,$13500,3 Beds|5 Bath,000 Kestrel Ln Goleta CA 93117
+Pacific Oaks,null,$2935 - $4035,1-2 Beds|1 Bath,7170 Davenport Rd Goleta CA 93117
+Patterson Place,877-560-3970,$2992 - $4907,null,120 S Patterson Ave Santa Barbara CA 93111
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 beds,811 Camino Pescadero Goleta CA 93117
+Breakpointe Coronado,305-324-7195,$1190-$3750,Studio-4 beds,672 Abrego Road Goleta CA 93117
+Tropicana Student Housing,8058926387,$936-$2615,2-3 beds,811 Camino Pescadero Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936 - $2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Breakpointe Coronado,305-324-7195,$1190 - $3750,Studio-4 Beds,672 Abrego Road Goleta CA 93117
+The Meadows Apartments,null,$2100,null,6753 Abrego Rd Goleta CA 93117
+Pacific Oaks,877-560-3970,$2935 - $4035,1-2 Beds,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$2992 - $4907,null,120 S Patterson Ave Santa Barbara CA 93111
+The Meadows Apartments,null,$2100,null,6753 Abrego Rd Goleta CA 93117
+null,null,$2100,null,null
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Breakpointe Coronado,305-324-7195,$1190-$3750,Studio-4 Beds,672 Abrego Rd Goleta CA 93117
+The Meadows Apartments,null,$2100,null,6753 Abrego Rd Goleta CA 93117
+Pacific Oaks,877-560-3970,$2935-$4035,1-2 Beds,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$2992-$4907,null,120 S Patterson Ave Santa Barbara CA 93111
+Wakefield Apartments,805-456-2672,$6200,4 Beds,624 Wakefield Rd Goleta CA 93117
+El Embarcadero Apartments,805-308-7170,$6750,2 Beds,1025 El Embarcadero Rd Goleta CA 93117
+Abrego Road Apartments,805-570-2288,$11000,5 Beds,6767 Abrego Rd Goleta CA 93117
+Kestrel Lane Apartments,null,$13500,3 Beds,000 Kestrel Ln Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds|2 Bath,811 Camino Pescadero Goleta CA 93117
+Breakpointe Coronado,305-324-7195,$1190-$3750,Studio-4 Beds|1-3 Bath,672 Abrego Rd Goleta CA 93117
+The Meadows Apartments,null,$2100,null,6753 Abrego Rd Goleta CA 93117
+Wakefield Apartments,805-456-2672,$6200,4 Beds|2.5 Bath,624 Wakefield Rd Goleta CA 93117
+El Embarcadero Apartments,805-308-7170,$6750,2 Bed|1 Bath,1025 El Embarcadero Rd Goleta CA 93117
+Abrego Road Apartments,805-570-2288,$11000,5 Beds|3 Bath,6767 Abrego Rd Goleta CA 93117
+Kestrel Lane Apartments,null,$13500,3 Beds|5 Bath,000 Kestrel Ln Goleta CA 93117
+Hollister Village,null,null,null,7000 Hollister Ave Goleta CA 93117
+Arrive Los Carneros,null,null,null,6800 Hollister Ave Goleta CA 93117
+Pacific Oaks,null,$2935-$4035,1-2 Beds|1 Bath,7170 Davenport Rd Goleta CA 93117
+Patterson Place,877-560-3970,$2992-$4907,null,120 S Patterson Ave Santa Barbara CA 93111
+Plaza Lofts,null,null,null,6533 Trigo Rd Isla Vista CA 93117
+Berkshire Terrace,null,null,null,6626 Picasso Rd Isla Vista CA 93117
+Willow Springs,null,$3000+,1 bed,60 Willow Springs Ln Goleta CA
+The Tahitian Apartments,null,$3495-$9900,1-4 bed,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814-$5345,1-3 bed,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935-$3713,1-2 bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1 bed,120 S Patterson Ave Santa Barbara CA
+Campus 880,null,$1795+,1 bed,880 Camino Del Sur Goleta CA
+Encina Meadows,null,$895-$850,1-3 bed,5839 Encina Rd Goleta CA
+Sunnida Gardens Apartments,null,$3905+,2 bed,122 Sumida Gardens Ln Goleta CA
+Cortona Point Apartments,null,$4000+,2 bed,100 Cortona Dr Goleta CA
+El Nido Apartments,null,$14000,3 bed 3 bath,6533 El Nido Dr Goleta CA 93117
+Del Playa Apartments,null,$14000,3 bed 3 bath,6564 Del Playa Dr #A Goleta CA
+Del Playa West,null,$13000,3 bed 2 bath,6772 Del Playa Dr Goleta CA
+Del Playa East,null,$4850+,2 bed,6709 Del Playa Dr #A Goleta CA
+Del Playa Apartments,null,$14000,3 bed 3 bath,6533 El Nido Dr Goleta CA 93117
+Del Playa Residences,null,$14000,3 bed 3 bath,6564 Del Playa Dr #A Goleta CA
+Del Playa Complex,null,$13000,3 bed 2 bath,6772 Del Playa Dr Goleta CA
+Del Playa Housing,null,$4850+,2 bed,6709 Del Playa Dr #A Goleta CA
+Mathilda Apartments,null,$2650,1 bed 1 bath 600 sqft,350 Mathilda Dr #S Goleta CA
+Armitos Avenue Apartments,null,$2500,1 bed 1 bath 729 sqft,5510 Armitos Ave Goleta CA
+Willow Springs,null,$3000+,1 bed,60 Willow Springs Ln Goleta CA
+The Tahitian Apartments,null,$3495-$9900,1-4 bed,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814-$5345,1-3 bed,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935-$3713,1-2 bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1 bed,120 S Patterson Ave Santa Barbara CA
+Campus 880,null,$1795+,1 bed,880 Camino Del Sur Goleta CA
+Encina Meadows,null,$895-$850,1-3 bed,5839 Encina Rd Goleta CA
+Sunnida Gardens,null,$3905+,2 bed,122 Sumida Gardens Ln Goleta CA
+Cortona Point Apartments,null,$4000+,2 bed,100 Cortona Dr Goleta CA
+Del Playa Apartments,null,$8000-$19000,2-7 beds,"6707 Del Playa Dr, Goleta, CA 93117"
+Sabado Tarde Apartments,null,$2846-$6500,1-3 beds,"6565 Sabado Tarde Rd, Goleta, CA 93117"
+Del Playa Beach Houses,null,$11000+,3 beds,"6741 Del Playa Dr, Goleta, CA 93117"
+Willow Springs,null,$3000+,1 bed,60 Willow Springs Ln Goleta CA
+The Tahitian Apartments,null,$3495-$9900,1-4 bed,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814-$5345,1-3 bed,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935-$3713,1-2 bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1 bed,120 S Patterson Ave Santa Barbara CA
+Campus 880,null,$1795+,1 bed,880 Camino Del Sur Goleta CA
+Encina Meadows,null,$895-$850,1-3 bed,5839 Encina Rd Goleta CA
+Sunnida Gardens Apartments,null,$3905+,2 bed,122 Sumida Gardens Ln Goleta CA
+Cortona Point Apartments,null,$4000+,2 bed,100 Cortona Dr Goleta CA
+Willow Springs,null,$3000+,1 bed,60 Willow Springs Ln Goleta CA
+The Tahitian Apartments,null,$3495-9900,1-4 bed,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814-5345,1-3 bed,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935+,1 bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1 bed,120 S Patterson Ave Santa Barbara CA
+Willow Springs,null,$3000+,1 bed,60 Willow Springs Ln Goleta CA
+The Tahitian Apartments,null,$3495-$9900,1-4 bed,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814-$5345,1-3 bed,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935-$3713,1-2 bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1 bed,120 S Patterson Ave Santa Barbara CA
+Campus 880,null,$1795-$850,1-3 bed,880 Camino Del Sur Goleta CA
+Encina Meadows,null,$1795+,1 bed,5839 Encina Rd Goleta CA
+Sunnida Gardens,null,$3905+,2 bed,122 Sumida Gardens Ln Goleta CA
+Cortona Point Apartments,null,$4000+,2 bed,100 Cortona Dr Goleta CA
+Del Playa Apartments,null,$2846-$19000,1-7 bed,6565 Sabado Tarde Rd Goleta CA
+Del Playa Complex,null,$6500-$18000,1-3 bed,6555 Del Playa Dr Goleta CA
+Del Playa Residences,null,$6500-$11000,1-3 bed,6525 Del Playa Dr Goleta CA
+Del Playa Heights,null,$12500,5 bed,6653 Del Playa Dr Goleta CA
+Del Playa Suites,null,$6750-$9250,2 bed,6561 Del Playa Dr Goleta CA
+Willow Springs,null,$3000+,1 bed,60 Willow Springs Ln Goleta CA
+The Tahitian Apartments,null,$3495-$9900,1-4 bed,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814-$5345,1-3 bed,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935-$3713,1-2 bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1 bed,120 S Patterson Ave Santa Barbara CA
+Campus 880,null,$1795+,1 bed,880 Camino Del Sur Goleta CA
+Encina Meadows,null,$895-$850,1-3 bed,5839 Encina Rd Goleta CA
+Sunnida Gardens Apartments,null,$3905+,2 bed,122 Sumida Gardens Ln Goleta CA
+Cortona Point Apartments,null,$4000+,2 bed,100 Cortona Dr Goleta CA
+Del Playa Apartments,null,$6500-$18000,1-5 beds,"6555 Del Playa Dr, Goleta, CA"
+Del Playa Residences,null,$6750-$12500,2-5 beds,"6653 Del Playa Dr, Goleta, CA"
+Del Playa Homes,null,$9250-$11000,2-3 beds,"6561 Del Playa Dr, Goleta, CA"
+Del Playa Living,null,$6500-$18000,1-3 beds,"6525 Del Playa Dr, Goleta, CA"
+Willow Springs,null,$3000+,1 bed,60 Willow Springs Ln Goleta CA
+The Tahitian Apartments,null,$3495-$9900,1-4 bed,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814-$5345,1-3 bed,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935-$3713,1-2 bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1 bed,120 S Patterson Ave Santa Barbara CA
+Campus 880,null,$1795+,1 bed,880 Camino Del Sur Goleta CA
+Encina Meadows,null,$895-$850,1-3 bed,5839 Encina Rd Goleta CA
+Sunnida Gardens Apartments,null,$3905+,2 bed,122 Sumida Gardens Ln Goleta CA
+Cortona Point Apartments,null,$4000+,2 bed,100 Cortona Dr Goleta CA
+Hollister Village,(805) 892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+Hollister Village,null,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$5345,1-3 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3308+,1-2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Ivy Meadows Apartments,null,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Hollister Village,(805) 892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$4386,1-2 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935-$3308,1 Bed,7170 Davenport Rd Goleta CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Ellwood Beach Apartments,null,$2650,1 bed,399 Ellwood Beach Drive Goleta CA 93117
+Del Playa Apartments,null,$22500,3 bed,6567 Del Playa Drive Goleta CA 93117
+Cathedral Oaks Residences,null,$2500,1 bed,Undisclosed Address Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 beds,650 Pardal Rd Goleta CA 93117
+Trigo Road Apartments,(805) 586-2766,$3950,2 beds,6597 Trigo Rd Goleta CA 93117
+Eastern Goleta Apartments,(619) 537-7440,$2100,1 bed,null
+Hollister Village,null,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$5345,1-3 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3308+,1-2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Ivy Meadows Apartments,null,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Hollister Village,(805) 892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encino Rd Goleta CA 93117
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Arrive Los Carneros II,null,$3814-$4386,1-2 Beds,6720 Calle Koral Goleta CA 93117
+The Tahitian Apartments,null,$3495-$5994,1-2 Beds,6739 El Colegio Rd Goleta CA 93117
+Pacific Oaks,null,$2935-$3308,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3850,2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Ellwood Beach Apartments,null,$2225,studio-1bed,271 Ellwood Beach Dr APT 12 Goleta CA 93117
+Dawn Lane Apartments,null,$2500,1bed,5111 Dawn Ln #1 Santa Barbara CA
+Sabado Tarde Apartments,null,$2700,1bed,6506 Sabado Tarde Rd Goleta CA
+Camino Pescadero Apartments,null,$20000,6bed,851 Camino Pescadero Goleta CA
+Ellwood Beach Drive Apartments,null,$2700,1bed,420 Ellwood Beach Dr Goleta CA
+Del Playa Apartments,null,$20000,6bed,6665 Del Playa Dr Goleta CA
+Hollister Village,805-892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,805-284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$5345,1-3 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3308-$4869,1-2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Ivy Meadows Apartments,null,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Hollister Village,(805) 892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$5345,1-3 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3308-$4869,1-2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Goleta CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+El Nido Apartments,null,$14000,3 bed 3 bath,6533 El Nido Dr Goleta CA 93117
+Del Playa Apartments,null,$14000,3 bed 3 bath,6564 Del Playa Dr Goleta CA 93117
+Del Playa Point,null,$13000,3 bed 2 bath,6772 Del Playa Dr Goleta CA 93117
+Del Playa Gardens,null,$4850+,2 bed,6709 Del Playa Dr Goleta CA 93117
+El Nido Apartments,null,$14000,3 bed 3 bath,6533 El Nido Dr Goleta CA 93117
+Del Playa Apartments,null,$14000,3 bed 3 bath,6564 Del Playa Dr #A Goleta CA
+Del Playa Residences,null,$13000,3 bed 2 bath,6772 Del Playa Dr Goleta CA
+Del Playa Housing,null,$4850+,2 bed,6709 Del Playa Dr #A Goleta CA
+Mathilda Apartments,null,$2650,1 bed 1 bath 600 sqft,350 Mathilda Dr #S Goleta CA
+Armitos Avenue Apartments,null,$2500,1 bed 1 bath 729 sqft,5510 Armitos Ave Goleta CA
+Hollister Village,805-892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,805-284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$5345,1-3 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3308-$4869,1-2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Ivy Meadows Apartments,null,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Hollister Village,(805) 892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Arrive Los Carneros II,null,$3814-$4386,1-2 Beds,6720 Calle Koral Goleta CA 93117
+The Tahitian Apartments,null,$3495-$5994,1-2 Beds,6739 El Colegio Rd Goleta CA 93117
+Pacific Oaks,null,$2935-$3308,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3850,2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Del Playa Apartments,null,$8000-$19000,2-7 beds,6707 Del Playa Dr Goleta CA 93117
+Sabado Tarde Apartments,null,$2846-$6500,1 bed,6565 Sabado Tarde Rd Goleta CA 93117
+Del Playa Complex,null,$11000+,3 beds,6741 Del Playa Dr Goleta CA 93117
+Hollister Village,805-892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,805-284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$5345,1-3 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3308-$4869,1-2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Ivy Meadows Apartments,null,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Willow Springs,null,$3000+,1 bed,60 Willow Springs Ln Goleta CA
+The Tahitian Apartments,null,$3495+,1 bed,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814-$5345,1-3 bed,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935+,1 bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1 bed,120 S Patterson Ave Santa Barbara CA
+Hollister Village,null,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Portal Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA
+Arrive Los Carneros II,null,$3814+,1-3 Beds,6720 Calle Koral Goleta CA
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA
+Patterson Place,null,$3308+,1-2 Beds,120 S Patterson Ave Santa Barbara CA
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Ivy Meadows Apartments,null,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Hollister Village,(805) 892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$4386,1-2 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935-$3308,1 Bed,7170 Davenport Rd Goleta CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Del Playa Apartments,null,$6500-$19000,1-7 beds,"6565 Sabado Tarde Rd, Goleta, CA"
+Del Playa Complex,null,$6500-$18000,1-5 beds,"6525 Del Playa Dr, Goleta, CA"
+Del Playa Residences,null,$12500-$6750,2-5 beds,"6653 Del Playa Dr, Goleta, CA"
+Hollister Village,805-892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,805-284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$5345,1-3 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3308-$4869,1-2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Ivy Meadows Apartments,null,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Hollister Village,(805) 892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Arrive Los Carneros II,null,$3814-$4386,1-2 Beds,6720 Calle Koral Goleta CA 93117
+The Tahitian Apartments,null,$3495-$5994,1-2 Beds,6739 El Colegio Rd Goleta CA 93117
+Pacific Oaks,null,$2935-$3308,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3850,2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Del Playa Apartments,null,$6500-$18000,1-5 beds,"6555 Del Playa Dr, Goleta, CA"
+Arrive Los Carneros II,null,$3595,1 Bed,6720 Calle Koral Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encino Rd Goleta CA 93117
+Arrive Los Carneros,null,$2100,1 Bed,6505 Sea Star Ct Goleta CA 93117
+Ivy Meadows Apartments,(805) 691-0423,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Patterson Place,null,$3850,2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Hollister Village,805-892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,805-892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,805-284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Tahitian Apartments,null,$3495+,1-4 Beds,6739 El Colegio Rd Goleta CA 93117
+Arrive Los Carneros II,null,$3814-$5345,1-3 Beds,6720 Calle Koral Goleta CA 93117
+Pacific Oaks,null,$2935+,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3308-$4869,1-2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Ivy Meadows Apartments,null,$3220-$7018,1-3 Beds,6753 Abrego Rd Goleta CA 93117
+Hollister Village,(805) 892-6462,$3034-$6914,Studio-3 Beds,100 Baldwin Dr Goleta CA 93117
+Tropicana Student Housing,(805) 892-6387,$936-$2615,2-3 Beds,811 Camino Pescadero Goleta CA 93117
+Cortona Point,null,$3425-$6025,1-3 Beds,100 Cortona Point Dr Goleta CA 93117
+The Edge,(805) 284-0059,$3495-$9900,1-4 Beds,650 Pardall Rd Goleta CA 93117
+The Wave,null,$3564-$4759,1-2 Beds,6679 Abrego Rd Goleta CA 93117
+Encina Meadows,null,$3541-$7830,1-3 Beds,583 Encina Rd Goleta CA 93117
+Willow Springs,null,$3905-$6572,1-3 Beds,60 Willow Springs Ln Santa Barbara CA 93117
+Sumida Gardens Apartments,null,$3308-$4869,1-2 Beds,122 Sumida Gardens Ln Santa Barbara CA 93117
+Arrive Los Carneros II,null,$3814-$4386,1-2 Beds,6720 Calle Koral Goleta CA 93117
+The Tahitian Apartments,null,$3495-$5994,1-2 Beds,6739 El Colegio Rd Goleta CA 93117
+Pacific Oaks,null,$2935-$3308,1 Bed,7170 Davenport Rd Goleta CA 93117
+Patterson Place,null,$3850,2 Beds,120 S Patterson Ave Santa Barbara CA 93111
+Encina Meadows,null,$1795-$3564,1-2 bed,5839 Encina Rd Goleta CA 93117
+Campus 880,null,$3564,2 bed,880 Camino Del Sur Goleta CA 93117
+Hollister Avenue Apartments,null,$3100,1 bed,7636 Hollister Ave Goleta CA 93117
+Mathilda Apartments,null,$2650,1 bed,345 Mathilda Dr Goleta CA 93117
+Ellwood Beach Apartments,null,$3025-$3950,2 bed,426 Ellwood Beach Dr Goleta CA 93117
+Wakefield Apartments,null,$3100,1 bed,624 Wakefield Rd Goleta CA 93117
+Hollister View,null,$11000,5 bed,7636 Hollister Ave Unit 359 Goleta CA 93117
+Abrego Gardens,null,$2750,1 bed,6767 Abrego Rd Goleta CA 93117
+Dearborn Place,null,$5950,3 bed,47 Dearborn Pl Goleta CA 93117
+Whimbrel Lane Residences,null,$250,null,7950 Whimbrel Ln Goleta CA 93117
+Wakefield Apartments,null,$3100,1 bed,624 Wakefield Rd Goleta CA 93117
+Hollister View Apartments,null,$11000,5 bed,7636 Hollister Ave Unit 359 Goleta CA 93117
+Abrego Point,null,$2750,1 bed,6767 Abrego Rd Goleta CA 93117
+Dearborn Place,null,$5950,3 bed,47 Dearborn Pl Goleta CA 93117
+Whimbrel Lane Residences,null,$6250,null,7950 Whimbrel Ln Goleta CA 93117
+Anacapa Residence Hall, null,$1832-2232,1 bed,Anacapa Hall Santa Barbara CA 93117
+Manzanita Village, null,$1832-2232,1 bed,6130 Ocean Rd Isla Vista CA 93117
+San Miguel Hall, null,$1832-2232,1 bed,552 University Rd Santa Barbara CA 93106
+San Rafael Residence Hall,null,$1832-2232,1 bed,San Rafael Hall University of California-Santa Barbara CA 93106
+Santa Catalina Residence Hall,null,$1832-2232,1 bed,Santa Catalina Dorms University of California-Santa Barbara CA 93106
+Santa Cruz Residence Hall,null,$1832-2232,1 bed,University of California Santa Barbara Santa Cruz Hall Santa Barbara CA 93106
+Santa Rosa Residence Hall,null,$1832-2232,1 bed,Santa Rosa Hall Santa Barbara CA 93117

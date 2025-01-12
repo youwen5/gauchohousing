@@ -1,0 +1,69 @@
+apartment_name, overal_opinion, quick_summarized_description, address
+Based on the conversations, I'll extract the apartment information into CSV format:
+apartment_name,overal_opinion,quick_summarized_description,address
+San Joaquin Village,Positive,"Modern style apartments with volleyball courts, basketball court, and Tenaya market store. Good social scene but far from campus.",UC Santa Barbara San Joaquin Village
+Santa Ynez Apartments,Positive,"Older style apartments with cozy vibe, bigger rooms, gas stoves, good parking. Close to IV and campus.",UC Santa Barbara Santa Ynez Apartments
+Sierra Madre Village,Positive,"Bigger apartments with nice kitchens, home-like feel, close to beach trails. Modern style.",UC Santa Barbara Sierra Madre Village
+Plaza Lofts,Positive,"Upscale apartments with nice amenities, secure and clean but expensive.",6750 El Colegio Road Goleta CA
+Berkshire Terrace,Neutral,"Basic apartment complex in IV",6650 Abrego Road Isla Vista CA
+Silverwood Townhomes,Neutral,"Two-floor 1bed/1bath units with parking available",null
+apartment_name,overal_opinion,quick_summarized_description,address
+San Joaquin Village,Positive,"Modern apartment complex with volleyball courts, basketball court, and Tenaya market store. Good social scene but far from campus.",UC Santa Barbara
+Santa Ynez,Positive,"Older apartment complex with cozy vibes, gas stoves, good parking, and walkable to campus. Double and triple rooms available.",UC Santa Barbara
+Sierra Madre Village,Positive,"Larger apartments with nice kitchens, home-like feel, close to beach trails. Has outdoor lounges on top floors.",UC Santa Barbara
+Plaza Lofts,Positive,"Upscale apartments with nice amenities, though expensive",6750 El Colegio Rd, Goleta, CA
+Vista Del Mar,Neutral,"Studio apartments, prices increased significantly recently to $2000+",6585 El Colegio Rd, Goleta, CA
+Berkshire Terrace,Neutral,"Basic apartment complex in Isla Vista",6626 Picasso Rd, Goleta, CA
+Silverwood Townhomes,Neutral,"Two-floor 1bed/1bath units with parking available",Isla Vista, CA
+apartment_name,overal_opinion,quick_summarized_description,address
+San Joaquin Village,Good,Affordable university apartment with Tenaya market nearby but far from campus (1 mile). Lottery system for placement. Housing guaranteed for rest of school year once accepted.,UC Santa Barbara San Joaquin Village Santa Barbara CA
+apartment_name,overal_opinion,quick_summarized_description,address
+San Joaquin Village,Positive,"Good experience, has Tenaya market nearby, about a mile from campus, modern style with volleyball courts","San Joaquin Village, UCSB"
+Santa Ynez Apartments,Positive,"Cozy old-school feel, bigger rooms, close to IV and school, gas stoves, some bug issues","Santa Ynez Apartments, UCSB"
+Sierra Madre Village,Positive,"Bigger apartments, nice kitchens, home-like feel, close to beach trails","Sierra Madre Village, UCSB"
+Based on the conversations, I'll create a CSV with the apartment information mentioned:
+apartment_name,overal_opinion,quick_summarized_description,address
+San Joaquin Village,Positive,"Modern style apartments with volleyball courts, basketball court, and Tenaya market store. Far from campus but has good amenities.",UC Santa Barbara San Joaquin Village Santa Barbara CA
+Santa Ynez Apartments,Positive,"Old school apartment feel, cozy vibes, bigger rooms, close to IV and school, gas stoves",UC Santa Barbara Santa Ynez Apartments Santa Barbara CA
+Sierra Madre Village,Positive,"Bigger apartments, nice kitchens, home-like feel, close to beach trails",UC Santa Barbara Sierra Madre Village Santa Barbara CA
+Plaza Lofts,Positive,"Expensive but nice lofts, hotel-like bathrooms, secure and clean",6750 El Colegio Road Goleta CA
+The Chalet,Neutral,"Basic apartments managed by Koto group",null
+Vista Del Mar,Negative,"Studios now expensive at 2k+ or doubled up rooms",null
+Berkshire Terrace,Neutral,"Basic apartment complex in IV",null
+Silverwood Townhomes,Neutral,"Two floor 1b1b units with parking available",null
+apartment_name,overal_opinion,quick_summarized_description,address
+Hollister Village,positive,Available units mentioned as option,6800 Hollister Ave Santa Barbara CA
+Arrive Los Carneros,positive,Available units mentioned as option,6855 Los Carneros Rd Goleta CA
+Anonymous Studio,neutral,Studio available for sublease at $1.8k,null
+Based on the conversations shown, I'll extract the apartment information into CSV format:
+apartment_name,overal_opinion,quick_summarized_description,address
+San Joaquin Village,Positive,"Modern style apartments with volleyball courts, basketball court, market nearby, but far from campus. Has outdoor lounges on top floor.",UC Santa Barbara San Joaquin Village
+Santa Ynez Apartments,Positive,"Older style with cozy condo feel, bigger rooms, gas stoves, close to IV and walkable to campus. Has some bug issues.",UC Santa Barbara Santa Ynez Apartments
+Sierra Madre Village,Positive,"Bigger apartments with nice kitchens, home-like feel, close to beach trails. Has nicer living spaces.",UC Santa Barbara Sierra Madre Village
+Plaza Lofts,Positive,"Expensive but nice lofts with hotel-like bathrooms, secure and clean",6750 El Colegio Road Goleta CA
+The Chalet,null,"Managed by Koto group",null
+Silverwood Townhomes,null,"2 floors, 1b1b units available",null
+Berkshire Terrace,null,null,null
+Based on the conversation snippets, I'll create a CSV with the relevant apartment information:
+apartment_name,overal_opinion,quick_summarized_description,address
+Hollister Village,positive,Available units with modern amenities,6699 Hollister Ave Santa Barbara CA 93117
+The Arrive at Los Carneros,positive,Available units with modern amenities,6601 Los Carneros Rd Goleta CA 93117
+San Joaquin Village,positive,"Modern towers with volleyball courts, market nearby, good social scene",650 Storke Road Santa Barbara CA 93117
+Santa Ynez Apartments,positive,"Older style, cozy vibe, good parking, walkable to campus",Santa Ynez Apartments Santa Barbara CA 93106
+Sierra Madre Village,positive,"Bigger apartments, nice kitchens, close to beach trails",555 Storke Road Santa Barbara CA 93117
+apartment_name,overal_opinion,quick_summarized_description,address
+San Joaquin Village,Positive,"Modern apartment complex with volleyball courts, basketball court, and Tenaya market store. Features 5-story buildings with outdoor lounges","San Joaquin Villages, UCSB, Santa Barbara, CA"
+Sierra Madre Village,Positive,"Larger apartments with nice kitchens, home-like feel, close to beach trails","Sierra Madre Villages, UCSB, Santa Barbara, CA"
+Santa Ynez Apartments,Positive,"Older complex with gas stoves, cozy atmosphere, good parking, walkable to campus","Santa Ynez Apartments, UCSB, Santa Barbara, CA"
+Plaza Lofts,Positive,"Upscale apartments with hotel-like bathrooms, secure and clean",null
+Vista Del Mar,Neutral,"Studio apartments, prices increased significantly recently",null
+Berkshire Terrace,Neutral,Basic apartment complex in IV area,null
+Based on the conversation threads, I'll create a CSV with the apartment information:
+apartment_name,overal_opinion,quick_summarized_description,address
+San Joaquin Village,Positive,"Modern apartment complex with volleyball courts, basketball court, and convenient market (Tenaya) on site. Far from campus but has good amenities.",UC Santa Barbara San Joaquin Village Santa Barbara CA
+Santa Ynez Apartments,Positive,"Older apartment complex with cozy vibe, good parking, walkable to campus, gas stoves. Has some bug issues but good community feel.",UC Santa Barbara Santa Ynez Apartments Santa Barbara CA
+Sierra Madre Village,Positive,"Modern apartments with nice kitchens, bigger living spaces, close to beach trails. More home-like feel than dorm style.",UC Santa Barbara Sierra Madre Village Santa Barbara CA
+Plaza Lofts,Very Positive,"Upscale apartments with hotel-like bathrooms, secure and clean but expensive.",6750 El Colegio Road Goleta CA
+Vista Del Mar,Neutral,"Studio apartments, prices increased significantly to $2000+",6555 Pardall Road Isla Vista CA
+Berkshire Terrace,Neutral,"Basic apartment complex in Isla Vista",6626 Picasso Road Isla Vista CA
+Silverwood Townhomes,Neutral,"Two-floor 1bed/1bath units with parking available",null
