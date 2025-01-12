@@ -1,6 +1,22 @@
 # GauchoHousing
 
-Submission for SB Hacks XI.
+Submission for SB Hacks XI, UC Santa Barbara's annual hackathon. We ended up
+winning 1st place in [Aryn](https://www.aryn.ai/)'s prize category.
+
+Our team consisted of:
+
+- [Youwen (Me)](https://youwen.dev)
+- [Matthew](https://github.com/ANYhackerfort)
+- [Tony](https://github.com/TonyL221)
+- [Kevin](https://github.com/Makkerel)
+
+Our stack was [Svelte](https://svelte.dev/) and SvelteKit alongside a
+Selenium/[Sycamore](https://github.com/aryn-ai/sycamore) powered web scraper
+and data ingester. The harvested data was served a REST API on a Django
+webserver.
+
+We also made heavy use of the Google Maps API for geocoding as well as
+OpenStreetView data.
 
 ## Hacking
 
