@@ -11,7 +11,6 @@
 <Sidebar.Provider style="--sidebar-width: 25rem">
   <AppSidebar />
   <main>
-    <!--<Sidebar.Trigger class="relative z-10" />-->
     {@render children?.()}
   </main>
 </Sidebar.Provider>
