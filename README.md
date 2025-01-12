@@ -12,7 +12,7 @@ Our team consisted of:
 
 Our stack was [Svelte](https://svelte.dev/) and SvelteKit alongside a
 Selenium/[Sycamore](https://github.com/aryn-ai/sycamore) powered web scraper
-and data ingester. The harvested data was served a REST API on a Django
+and data ingester. The harvested data was served by REST API on a Django
 webserver.
 
 We also made heavy use of the Google Maps API for geocoding as well as
