@@ -3,6 +3,10 @@
 Submission for SB Hacks XI, UC Santa Barbara's annual hackathon. We ended up
 winning 1st place in [Aryn](https://www.aryn.ai/)'s prize category.
 
+![screenshot of app in action](./media/gallery.jpg)
+
+See [the Devpost](https://devpost.com/software/homelessgaucho) for more info.
+
 Our team consisted of:
 
 - [Youwen (Me)](https://youwen.dev)
