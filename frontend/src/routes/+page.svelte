@@ -40,7 +40,7 @@
   <main class="fixed inset-0 h-screen w-screen z-0">
     <MapLibre
       style={streetsStyle}
-      class="absolute inset-0"
+      class="absolute inset-0 h-[100%] w-[100%]"
       center={[-119.856801, 34.413044]}
       zoom={14.8}
       maxBounds={bounds}
@@ -65,7 +65,6 @@
           />
         </Marker>
       {/each}
-
       <FillExtrusionLayer
         source="maptiler_planet"
         sourceLayer="building"

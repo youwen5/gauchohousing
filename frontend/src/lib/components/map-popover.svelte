@@ -5,39 +5,43 @@
   import Badges from './badges.svelte'
   import { HouseIcon, PlusCircle } from 'lucide-svelte/icons'
   import type { ApartmentEntry } from '$lib/types'
-  import { apartmentStore } from "$lib/store"
+  import { apartmentStore } from '$lib/store'
   import { Button } from '$lib/components/ui/button/index.js'
 
-  const { price, name, address, thumbnail, rating, phone, beds} = $props()
+  const { price, name, address, thumbnail, rating, phone, beds } = $props()
 
-  function addHouse(price: string, the_name:string, address:string, thumbnail:string, phone:string, beds:string){
+  function addHouse(
+    price: string,
+    the_name: string,
+    address: string,
+    thumbnail: string,
+    phone: string,
+    beds: string
+  ) {
+    let minPrice: number = 0
+    let maxPrice: number = 0
 
-      let minPrice: number = 0;
-      let maxPrice: number = 0;
-
-      if(price)
-      {
-        const [minPriceString, maxPriceString] = price.split("-");
-        minPrice = parseInt(minPriceString?.replace("$", ""), 10); // Use parseInt for whole numbers
-        maxPrice = parseInt(maxPriceString?.replace("$", ""), 10); // Use parseFloat for potential decimals
-      }
-
-      const apartment_store: ApartmentEntry = {
-        name: the_name,
-        address: address,
-        description: "I like this House",
-        phoneNumber: phone,
-        priceRange: [minPrice,maxPrice],
-        thumbnail: thumbnail,
-        beds: beds
-      }
-
-      let temp = $apartmentStore
-      temp.push(apartment_store)  
-
-      apartmentStore.set(temp)
+    if (price) {
+      const [minPriceString, maxPriceString] = price.split('-')
+      minPrice = parseInt(minPriceString?.replace('$', ''), 10) // Use parseInt for whole numbers
+      maxPrice = parseInt(maxPriceString?.replace('$', ''), 10) // Use parseFloat for potential decimals
     }
 
+    const apartment_store: ApartmentEntry = {
+      name: the_name,
+      address: address,
+      description: 'I like this House',
+      phoneNumber: phone,
+      priceRange: [minPrice, maxPrice],
+      thumbnail: thumbnail,
+      beds: beds
+    }
+
+    let temp = $apartmentStore
+    temp.push(apartment_store)
+
+    apartmentStore.set(temp)
+  }
 </script>
 
 <Popover.Root>
@@ -52,8 +56,11 @@
           <Rating class="-ml-1 mt-1" id="apartment-rating" total={5} size={35} {rating} />
           <Badges />
         </div>
-        <Button variant="ghost" onclick={() => addHouse(price, name, address, thumbnail,phone,beds)}>
-          <PlusCircle class="scale-150"/>
+        <Button
+          variant="ghost"
+          onclick={() => addHouse(price, name, address, thumbnail, phone, beds)}
+        >
+          <PlusCircle class="scale-150" />
         </Button>
       </div>
       <img src={thumbnail} alt={name} class="rounded-lg drop-shadow-xl mt-4 max-w-[100%]" />
@@ -66,16 +73,16 @@
         <Table.Header>
           <Table.Row>
             <Table.Head>Price</Table.Head>
-            <Table.Head>Beds</Table.Head> 
+            <Table.Head>Beds</Table.Head>
             <Table.Head>Phone Number</Table.Head>
           </Table.Row>
         </Table.Header>
         <Table.Body>
-            <Table.Row>
-              <Table.Cell class="font-medium">{price}</Table.Cell>
-              <Table.Cell>{beds}</Table.Cell>
-              <Table.Cell>{phone}</Table.Cell>
-            </Table.Row>
+          <Table.Row>
+            <Table.Cell class="font-medium">{price}</Table.Cell>
+            <Table.Cell>{beds}</Table.Cell>
+            <Table.Cell>{phone}</Table.Cell>
+          </Table.Row>
         </Table.Body>
       </Table.Root>
     </div>

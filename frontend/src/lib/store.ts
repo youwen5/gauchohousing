@@ -12,4 +12,3 @@ export const settingsStore = writable<Settings>({
   showParties: true,
   showCrimes: true
 })
-
